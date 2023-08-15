@@ -1,0 +1,77 @@
+{
+    "videoThumbnails": [
+      {
+        "videoID": "BZ5gCb02H4A",
+        "thumbnailUrl": "https://img.youtube.com/vi/BZ5gCb02H4A/sddefault.jpg"
+      },
+      {
+        "videoID": "gp8JOmHEfos",
+        "thumbnailUrl": "https://img.youtube.com/vi/gp8JOmHEfos/sddefault.jpg"
+      },      
+      {
+        "videoID": "5kAF9QV5nYQ",
+        "thumbnailUrl": "https://img.youtube.com/vi/5kAF9QV5nYQ/sddefault.jpg"
+      },
+      {
+        "videoID": "S-HDc0h3e_4",
+        "thumbnailUrl": "https://img.youtube.com/vi/S-HDc0h3e_4/sddefault.jpg"
+      },
+      {
+        "videoID": "U7cnwXBGi94",
+        "thumbnailUrl": "https://img.youtube.com/vi/U7cnwXBGi94/sddefault.jpg"
+      }
+    ],
+    "products": [
+      {
+        "productID": "opporeno10",
+        "link": "https://www.tokopedia.com/find/oppo-reno-10-5g",
+        "title": "OPPO Reno10 5G",
+        "price": 5999000,
+        "videoID": "BZ5gCb02H4A"
+      },
+      {
+        "productID": "advanworkplus",
+        "link": "https://tokopedia.link/bJ61eloP8Bb",
+        "title": "ADVAN Laptop Workplus",
+        "price": 6999000,
+        "videoID": "gp8JOmHEfos"
+      },
+      {
+        "productID": "xiaomiredmi12",
+        "link": "https://tokopedia.link/FcAziWgB2Bb",
+        "title": "Xiaomi Redmi 12",
+        "price": 1999000,
+        "videoID": "5kAF9QV5nYQ"
+      },
+      {
+        "productID": "tecnopova5",
+        "link": "https://shopee.co.id/product/333261179/23474294753",
+        "title": "TECNO POVA 5",
+        "price": 2299000,
+        "videoID": "S-HDc0h3e_4"
+      },
+      {
+        "productID": "axiopongo7",
+        "link": "https://tokopedia.link/kMjPMF5q3xb",
+        "title": "Laptop Axioo Pongo 7 ",
+        "price": 15999000,
+        "videoID": "U7cnwXBGi94"
+      }        
+    ],
+    "comments": [
+      {
+        "username": "user1",
+        "comment": "Keren HP nya bang!",
+        "timestamp": "2023-07-26T12:34:56.789Z",
+        "videoID": "BZ5gCb02H4A"
+      },
+      {
+        "username": "user2",
+        "comment": "Keren Laptopnya jadi pengen beli!",
+        "timestamp": "2023-07-26T14:12:34.567Z",
+        "videoID": "gp8JOmHEfos"
+      }
+      
+    ]
+  }
+  
